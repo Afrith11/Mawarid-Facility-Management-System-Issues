@@ -8,7 +8,7 @@
 
   ![](./Assets/image_2024_05_03T04_57_21_460Z.png)
 
-  * WorkOrderTask Create > Activity dropdown > Activity Id & Description search is not working
+  * **WorkOrderTask Create > Activity dropdown** - Activity Id & Description search is not working
 
   ![](./Assets/image_2024_05_03T04_57_44_151Z.png)
 
@@ -22,7 +22,7 @@
 
   ![](./Assets/image_2024_05_03T04_58_21_921Z.png)
 
-  * (In Technician Login) – Start Work > Head Office > Work Order Create – Not patching the data in PlanId, Frequency, Type, Site & Category.
+  * **(In Technician Login) – Start Work > Head Office > Work Order Create** – Not patching the data in PlanId, Frequency, Type, Site & Category.
 
   ![](./Assets/image_2024_05_03T04_59_19_953Z.png)
 
